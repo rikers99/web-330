@@ -3,8 +3,8 @@
   Chapter 3
   Programming Assignment
 
-  Author:
-  Date:
+  Author:  steve culmer
+  Date:  4 dec 24
   Filename: chefs.js
 */
 
