@@ -59,3 +59,4 @@ test('Character saving', () => {
 
   fs.unlinkSync(filePath);
 });
+
