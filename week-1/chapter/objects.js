@@ -44,16 +44,17 @@
           // Add a PokerCard object
           this.cards.push(new pokerCard(suits[i], ranks[i]));
         }
-      }
-
-      // Method to randomly sort the cards in the deck
+        // Method to randomly sort the cards in the deck
       this.shuffle = function() {
         this.cards.sort(function() {
           return 0.5 - Math.random();
         });
       };
+      }
 
-      /* Constructor function for poker hands
+
+
+      /* Constructor function for poker hands */
       function  pokerHand(handLength) {
         this.cards = new Array(handLength);
       }
