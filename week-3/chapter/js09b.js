@@ -5,6 +5,12 @@
 
       Eating Well in Season
       Author: Steve Culmer
+<<<<<<< HEAD
+      Date:   6 nov 24
+
+      Filename: js09b.js
+ */
+=======
       Date:   7 nov 24
 
       Filename: js09b.js
@@ -18,3 +24,4 @@
       qString = decodeURIComponent(qString);
 
       console.log(qString);
+>>>>>>> 8b19f7b61358a7db81ea2a5e29fc2d6acf8a2e02
